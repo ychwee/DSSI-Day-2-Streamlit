@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-_r-mutex=1.0.0=anacondar_1
 absl-py=1.0.0=pypi_0
 alembic=1.7.6=pypi_0
 altair=4.1.0=pypi_0
